@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/blackish</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@android:color/white</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+
+</resources>
